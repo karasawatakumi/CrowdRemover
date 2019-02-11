@@ -1,5 +1,5 @@
 # Crowd Remover
-Remove annoying crowds from a non-stable (taken with a hand camera) movie.
+Remove annoying crowds from a non-stable movie, taken with a hand camera.
 
 
 ## Source Codes
