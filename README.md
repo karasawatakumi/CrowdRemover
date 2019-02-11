@@ -27,8 +27,8 @@ Remove annoying crowds from a non-stable (taken with a hand camera) movie.
 The result is below:
 
 - Top-left: The original movie
-- Bottom-right: Removing crowds without stabilization
-- Top-left: The stabilized movie
+- Bottom-left: Removing crowds without stabilization
+- Top-right: The stabilized movie
 - Bottom-right: Removing crowds with stabilization
 
 ![result](./akamon.gif "result")
