@@ -24,7 +24,6 @@ Remove annoying crowds from a non-stable (taken with a hand camera) movie.
 - utils.py: Utilities for visualize the foreground.
 
 ## Result
-The result is below:
 
 - Top-left: The original movie
 - Bottom-left: Removing crowds without stabilization
